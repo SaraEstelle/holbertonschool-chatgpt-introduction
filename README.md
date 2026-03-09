@@ -1,11 +1,6 @@
 ChatGPT – Introduction
 Holberton School – Debugging & Automation with AI
 
-https://img.shields.io/badge/Project-Active-blue  
-https://img.shields.io/badge/Language-Multi--Language-green  
-https://img.shields.io/badge/AI-ChatGPT-orange  
-https://img.shields.io/badge/Level-Novice-lightgrey  
-https://img.shields.io/badge/License-Holberton-red
 
 📘 Overview
 This project introduces the use of ChatGPT as a development assistant to enhance debugging efficiency and automate repetitive coding tasks.
@@ -101,3 +96,4 @@ All rights belong to Holberton School.
 
 🤝 Acknowledgments
 Special thanks to Holberton School for integrating AI‑assisted development into the curriculum and encouraging modern, efficient coding practices.
+
